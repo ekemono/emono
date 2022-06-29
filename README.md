@@ -1,2 +1,2 @@
 # emono
-# gambo
+# man
